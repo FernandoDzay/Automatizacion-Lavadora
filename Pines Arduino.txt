@@ -1,0 +1,24 @@
+----------------------
+Display:
+
+a = 13
+b = 12
+c = 11
+d = 10
+e = 9
+f = 8
+g = 7
+p = 6
+multiplexor0 = A4
+multiplexor1 = A5
+multiplexor2 = 2
+multiplexor3 = 3
+
+----------------------
+Start         = A0
+Stop          = A1
+Potenciometro = A2
+Infrarrojo    = A3
+
+Valvula       = 4
+Buzzer        = 5
